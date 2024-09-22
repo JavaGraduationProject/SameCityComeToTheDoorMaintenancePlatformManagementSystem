@@ -1,6 +1,6 @@
 # 全目录
 
-[更新系统、论文，供君选择 ~~>](https://www.bitwise.net.cn)
+[更新系统、论文，供君选择 ~~>](https://www.yuque.com/wisebit/blog)
 
 # 54.SameCityComeToTheDoorMaintenancePlatformManagementSystem
 
